@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @indiatechtimes
 - 👀 I’m interested in Android Development 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Android Developement
+- 💞️ I’m looking to collaborate on Android Developer's 
 - 📫 How to reach me by mail
 
 <!---
