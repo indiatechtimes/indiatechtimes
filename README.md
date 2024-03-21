@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @indiatechtimes
-- 👀 I’m interested in Android Development 
+- 👀 I’m interested in Flutter  Development 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Android Developer's 
-- 📫 How to reach me by mail
+- 💞️ I’m looking to collaborate on Flutter Developer's 
+- 📫 How to reach me by indiatechtimes@gmail.com
 
 <!---
 indiatechtimes/indiatechtimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
