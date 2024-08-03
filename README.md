@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indiatechtimes
+- 👋 Hi, I’m Mohammad Shadab Khan
 - 👀 I’m interested in Flutter  Development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Flutter Developer's 
