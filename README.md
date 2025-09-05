@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad Shadab Khan
-- 👀 I’m interested in Flutter  Development 
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m Md Shadab Khan
+- 👀 I’m interested in Flutter  Mobile application developer
+- 🌱 I’m currently working on project of SIH (Smart India Hackathon)
 - 💞️ I’m looking to collaborate on Flutter Developer's 
 - 📫 How to reach me by indiatechtimes@gmail.com
 
